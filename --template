@@ -1,0 +1,2 @@
+NAME                 TYPE                DATA   AGE
+secure-caller-cert   kubernetes.io/tls   5      9d
